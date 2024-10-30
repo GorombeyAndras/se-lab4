@@ -1,0 +1,4 @@
+#Nem próbálja meg kilőni a másodikat, ha az első nem sikeres
+GT4500,10,1,10,0    # az első lövés 1 eséllyel sikertelen
+TORPEDO,SINGLE  # az elsőből lőne
+TORPEDO,SINGLE  # a másodikból lőne

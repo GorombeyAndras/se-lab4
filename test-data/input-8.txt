@@ -1,0 +1,5 @@
+#első, második és újra első jön, de az már üres szóval újra második
+GT4500,1,0,10,0   
+TORPEDO,SINGLE  # az elsőből lő sikeresen
+TORPEDO,SINGLE  # a második lő sikeresen
+TORPEDO,SINGLE  # az elsőből lőne de üres

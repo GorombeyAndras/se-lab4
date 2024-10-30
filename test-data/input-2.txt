@@ -1,0 +1,4 @@
+#Második lövés is az elsőből lő, ha a második már üres
+GT4500,10,0,0,0    # csak az első tárolóban van lövedék
+TORPEDO,SINGLE  # az elsőből lő
+TORPEDO,SINGLE  # az elsőből lő

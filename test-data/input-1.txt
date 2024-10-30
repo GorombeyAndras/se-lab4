@@ -1,0 +1,4 @@
+#Második lövés a második tárolóból történik
+GT4500,10,0,10,0    # Mindkét tárolóban van lövedék
+TORPEDO,SINGLE  # az elsőből lő
+TORPEDO,SINGLE  # a másodikból lő

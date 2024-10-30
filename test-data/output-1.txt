@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO elso
+SUCCESS  # <- TORPEDO masodik

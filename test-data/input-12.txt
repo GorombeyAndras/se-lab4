@@ -1,0 +1,2 @@
+#rossz paraméterek
+GT4500,1,0,0    # csak 4 param
