@@ -1,0 +1,3 @@
+#Kilő 1-1 torpedót
+GT4500,10,1,10,0    # midnkettő teli
+TORPEDO,ALL  # mindkettőből 1-1, de sikertelen az első
